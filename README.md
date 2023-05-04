@@ -22,11 +22,13 @@
 
 - 想要体验新功能？
   虽然在主页部署了博客，但是本站的功能不会局限于此。
-  比如在[chat.singledog233.top](chat.singledog233.top)部署了[佬的项目](https://github.com/Yidadaa/ChatGPT-Next-Web)
+  
+  比如在[chat.singledog233.top](chat.singledog233.top)部署了[佬的项目](https://github.com/Yidadaa/ChatGPT-Next-Web)。
+  
   在Issue中提出想要增加的功能，作者会考虑的。
 
 - 本站的服务器非常丐。
-  但是作者接受捐赠。收的钱够多就会升级了。<s>互联网讨口子是这样的。</s>
+  但是作者接受捐赠，收的钱够多就会升级了。<s>互联网讨口子是这样的。</s>
 
 ### 为什么不用GitTalk?
 
